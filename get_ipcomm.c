@@ -25,3 +25,4 @@ char *get_ipcomm(void)
 	}
 	return (inbuffer);
 }
+
