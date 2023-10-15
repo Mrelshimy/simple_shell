@@ -18,7 +18,7 @@ Features:
 
 Usage:
 ------
-1. Compile the project using a C compiler.
+1. Compile the project using gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 2. Run the executable file.
 3. Enter commands at the prompt and press Enter to execute them.
 4. Use Ctrl+D to exit the shell.
